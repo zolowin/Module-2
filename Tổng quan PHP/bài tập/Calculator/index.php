@@ -43,9 +43,9 @@
                         <option value="Multiplication">Multiplication</option>
                         <option value="Division">Division</option>
                     </select></label><br />
-
+        
                 <label>Second operand: </label>
-                <label><input type="number" name="second_operand" /></label><br />
+                <label><input type="number" name="second_operand" placeholder="input number" /></label><br />
                 <div id="buttons">
                     <label>&nbsp;</label>
                     <input type="submit" value="Calculate" /><br />

@@ -1,0 +1,1 @@
+<strong>Copyright &copy; Hamtruyen.vn </strong>

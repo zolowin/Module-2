@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b155ebd-b55a-472f-a72f-f28a8c3e9d95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../thực hành/shape/shape.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/Calculator/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/Calculator/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1UvYtTRmgc5doRSalOld5MqK4kA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Point n moveablepoint" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b155ebd-b55a-472f-a72f-f28a8c3e9d95" name="Default Changelist" comment="" />
+      <created>1576238750757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576238750757</updated>
+      <workItem from="1576238752030" duration="6166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576245943646">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1576245943646" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1576250059451">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1576250059451" />
+    <state x="501" y="231" key="NewPhpClassDialog" timestamp="1576246134450">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="501" y="231" key="NewPhpClassDialog/0.0.1536.834@0.0.1536.834" timestamp="1576246134450" />
+    <state x="604" y="340" key="NewPhpFileDialog" timestamp="1576246151194">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="604" y="340" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1576246151194" />
+    <state x="567" y="106" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576239022694">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="567" y="106" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1576239022694" />
+  </component>
+</project>
