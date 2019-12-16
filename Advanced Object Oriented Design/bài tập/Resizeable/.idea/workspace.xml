@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="276f5b1f-4046-4e74-90ab-fa126fff5c0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Cricle n Cylinder/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Cricle n Cylinder/.idea/Cricle n Cylinder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Cricle n Cylinder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Cricle n Cylinder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Cricle n Cylinder/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Cricle n Cylinder/Circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Cricle n Cylinder/Cylinder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Cricle n Cylinder/UML.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Cricle n Cylinder/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point 2D n point 3d/.idea/Point 2D n point 3d.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point 2D n point 3d/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point 2D n point 3d/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point 2D n point 3d/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point 2D n point 3d/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point 2D n point 3d/Point2D.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point 2D n point 3d/Point3D.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point 2D n point 3d/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point n moveablepoint/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point n moveablepoint/.idea/Point n moveablepoint.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point n moveablepoint/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point n moveablepoint/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point n moveablepoint/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point n moveablepoint/MoveablePoint.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point n moveablepoint/Point.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Point n moveablepoint/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Triangle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Triangle/.idea/Triagle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Triangle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Triangle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Triangle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Triangle/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Triangle/shape.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/bài tập/Triangle/triangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/thực hành/shape/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/thực hành/shape/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/thực hành/shape/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/thực hành/shape/.idea/shape.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/thực hành/shape/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/thực hành/shape/circle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/thực hành/shape/cylinder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/thực hành/shape/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/thực hành/shape/rectangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/thực hành/shape/shape.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Kế thừa/thực hành/shape/square.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lớp và đối tượng/bài tập/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lớp và đối tượng/bài tập/.idea/bài tập.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lớp và đối tượng/bài tập/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lớp và đối tượng/bài tập/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lớp và đối tượng/bài tập/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lớp và đối tượng/bài tập/Fan/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lớp và đối tượng/bài tập/QuadraticEquation/class_lib.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lớp và đối tượng/bài tập/QuadraticEquation/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lớp và đối tượng/bài tập/StopWatch/class_lib.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lớp và đối tượng/bài tập/StopWatch/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lớp và đối tượng/thực hành/rectangle/class_lib.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lớp và đối tượng/thực hành/rectangle/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/.idea/Mảng và hàm trong PHP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/Merging array/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/User registration page/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/User registration page/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/count/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/del element/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/find max/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/find min/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/findminup/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/thông báo nếu người dùng nhập vào chỉ số không hợp lệ/find.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/thông báo nếu người dùng nhập vào chỉ số không hợp lệ/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/trycatch divine by zero/display_result.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/trycatch divine by zero/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/tổng các số ở một cột xác định/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/bài tập/tổng các số ở đường chéo chính của ma trận vuông/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/thực hành/Filter customer lists/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/thực hành/creat layout/content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/thực hành/creat layout/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/thực hành/creat layout/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/thực hành/creat layout/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/thực hành/creat layout/nav.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Mảng và hàm trong PHP/thực hành/creat layout/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/Calculator/display_result.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/Calculator/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/Product Discount Calculator/display_discount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/Product Discount Calculator/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/convert currency/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/future value calculator/display_result.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/future value calculator/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/hiển thị hình/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/prime less than 100/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/prime/display.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/prime/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/bài tập/readnumbersintoword/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/thực hành/customer list/images/img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/thực hành/customer list/images/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/thực hành/customer list/images/img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/thực hành/customer list/images/img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/thực hành/customer list/images/img5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/thực hành/customer list/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/thực hành/dictionary/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/thực hành/login/indexget.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/thực hành/login/indexpost.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tổng quan PHP/thực hành/time/index.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1V3013rCNt2mC2IqwK87WBa0bxJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Vehhicle" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="276f5b1f-4046-4e74-90ab-fa126fff5c0e" name="Default Changelist" comment="" />
+      <created>1576466252028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576466252028</updated>
+      <workItem from="1576466253301" duration="6603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1576477858507">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1576477858507" />
+    <state x="604" y="340" key="NewPhpFileDialog" timestamp="1576467736626">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="604" y="340" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1576467736626" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1576471921958">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1576471921958" />
+    <state x="410" y="147" width="700" height="530" key="recent.locations.popup" timestamp="1576471929364">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="410" y="147" width="700" height="530" key="recent.locations.popup/0.0.1536.834@0.0.1536.834" timestamp="1576471929364" />
+  </component>
+</project>

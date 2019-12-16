@@ -60,12 +60,12 @@ class Triangle extends Shape
     /**
      * @param double $side3
      */
-    public function setSide3($side3)
+    public function setSide3 ($side3)
     {
         $this->side3 = $side3;
     }
 
-    public function getPerimeter()
+    public function getPerimeter ()
     {
         return $this->side1 + $this->side2 + $this->side3;
     }

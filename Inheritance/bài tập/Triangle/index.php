@@ -66,9 +66,9 @@ function checkIsTriangle($side1, $side2, $side3)
 {
     if ($side1 >= ($side2 + $side3) || $side2 >= ($side1 + $side3) || $side3 >= ($side1 + $side2)) {
         try {
-            throw new Exception("This triangle is not valid.");
+            throw new Exception("THIS TRIANGLE IS NOT VAILD");
         } catch (Exception $exception) {
-            echo $exception->getMessage();
+            echo "Message: " . $exception->getMessage();
         }
     } else {
         $triangle1 = new Triangle("triangle1", $side1, $side2, $side3);
