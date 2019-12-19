@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b3161db-394f-40d9-9e92-66e573188ce8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Tổng quan PHP/bài tập/Calculator/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Tổng quan PHP/bài tập/Calculator/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehhicle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehhicle/.idea/Vehhicle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehhicle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehhicle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehhicle/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehhicle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehhicle/Car.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehhicle/Plane.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehhicle/Train.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehhicle/Vehicle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehhicle/index.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lớp và đối tượng/bài tập" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Data structure and basic algorithms" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -51,6 +62,12 @@
       <option name="presentableId" value="Default" />
       <updated>1576224640584</updated>
       <workItem from="1576224643003" duration="31000" />
+      <workItem from="1576502994484" duration="10000" />
+      <workItem from="1576552070038" duration="713000" />
+      <workItem from="1576673890117" duration="10000" />
+      <workItem from="1576723103137" duration="1536000" />
+      <workItem from="1576724839438" duration="50000" />
+      <workItem from="1576725124728" duration="4000" />
     </task>
     <servers />
   </component>
@@ -58,10 +75,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1576224670403">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1576554954982">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1576224670403" />
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1576554954982" />
     <state x="465" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1576224643282">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
